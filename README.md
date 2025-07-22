@@ -54,3 +54,18 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elias-luis-tucci-6633aa308)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/541164681220)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuccieliasluis@gmail.com)
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/ELIAS2401">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ELIAS2401&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/Adityakanoi2001">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ELIAS2401&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ELIAS2401&theme=dark&hide_border=true"/>
+</p>
