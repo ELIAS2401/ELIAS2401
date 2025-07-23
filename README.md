@@ -49,6 +49,28 @@
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 </span>
 
+## 🧩 Proyecto destacado: Juego de Palabras Multijugador
+
+Juego estilo *Pinturillo*, desarrollado en equipo como práctica integradora. Varios jugadores intentan adivinar una palabra en tiempo real a través de WebSocket.
+
+### 👨‍💻 Mi participación:
+- Implementé la lógica de `procesarIntento`, que:
+  - Recibe la palabra escrita por el jugador vía WebSocket.
+  - Compara con la palabra correcta de la ronda.
+  - Asigna puntajes por orden de acierto: 15 pts (1°), 10 pts (2°), 7 pts (3°), etc.
+  - Responde a los jugadores indicando si acertaron o no.
+- Desarrollé el `ControladorJuego`, que carga la vista de juego y gestiona el flujo principal.
+- Utilicé **JavaScript** en el frontend para establecer la conexión WebSocket con el backend.
+- Manejo de múltiples sesiones de juego, con lógica escalonada de puntaje.
+
+### 🛠️ Tecnologías usadas:
+- **Backend:** Java 11, Spring MVC, Hibernate, Maven, MySQL
+- **Frontend:** HTML, JavaScript, WebSocket
+- **Arquitectura:** MVC, con capas de Repositorios, Servicios y Controladores
+
+> Proyecto completo con backend robusto y lógica en tiempo real, orientado al trabajo en equipo y la comunicación en redes.
+
+
 ## 🤝 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elias-luis-tucci-6633aa308)
