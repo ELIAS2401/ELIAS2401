@@ -10,7 +10,7 @@
 💬 I have experience with HTML, CSS, Bootstrap, Java, Spring Boot, Hibernate, and WebSockets<br>
 🚀 I’m looking for my first opportunity in a real-world development environment<br>
 ✅ I’m responsible, organized, and used to working with deadlines in team-based academic projects<br>
-
+<hr/>
 <p align="center">
   <a href="https://tu-sitio-portfolio.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%230A66C2?style=for-the-badge&logo=google-chrome&logoColor=white">
