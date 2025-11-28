@@ -12,7 +12,7 @@
 ✅ I’m responsible, organized, and used to working with deadlines in team-based academic projects<br>
 <hr/>
 <p align="center">
-  <a href="https://tu-sitio-portfolio.com" target="_blank">
+  <a href="https://elias2401.github.io/portfolioEliasTucci/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%230A66C2?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
 </p>
